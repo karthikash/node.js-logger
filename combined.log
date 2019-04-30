@@ -1,0 +1,6 @@
+2019-04-30T18:17:06.755Z [My Logger] [35msilly[39m: This one is a Silly log!
+2019-04-30T18:17:06.756Z [My Logger] [34mdebug[39m: Debugging the current log :/
+2019-04-30T18:17:06.756Z [My Logger] [36mverbose[39m: You're using too much words for this :(
+2019-04-30T18:17:06.756Z [My Logger] [32minfo[39m: I hope you got the essential information :o
+2019-04-30T18:17:06.756Z [My Logger] [33mwarn[39m: There is a possible danger, please revise :o
+2019-04-30T18:17:06.756Z [My Logger] [31merror[39m: Ohhh, GOD!, A mistake....

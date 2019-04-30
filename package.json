@@ -1,0 +1,23 @@
+{
+  "name": "node.js-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node logger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpenhanced/node.js-logger.git"
+  },
+  "author": "Karthik Ashokkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpenhanced/node.js-logger/issues"
+  },
+  "homepage": "https://github.com/kpenhanced/node.js-logger#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "winston": "^3.2.1"
+  }
+}
