@@ -8,7 +8,7 @@ logger.log('info', "I hope you got the essential information :o");
 logger.log('warn', "There is a possible danger, please revise :o");
 logger.log('error', "Ohhh, GOD!, A mistake....");
 
-// case 2: 
+// case 2: invoking directly
 /* 
 logger.silly("This one is a Silly log!");
 logger.debug("Debugging the current log :/");
